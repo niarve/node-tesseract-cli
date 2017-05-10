@@ -34,3 +34,9 @@ To output to a text file use the redirection operator:
 I left some pictures in the assets folder for testing purposes, but I encourage you to use your own!
 
 ---
+#### Limitations
+Tesseract is great for simple OCR with easy-to-read text, but there's some limitations. This CLI cannot recognize:
+* Cursive
+* Sidways/Diagonal text
+
+You can test these limitations with files included in the assets folder.
