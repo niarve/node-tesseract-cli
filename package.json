@@ -1,5 +1,5 @@
 {
-  "name": "tesseract-poc",
+  "name": "node-tesseract-cli",
   "version": "1.0.0",
   "description": "Tesseract with Node proof of concept",
   "main": "index.js",
